@@ -8,7 +8,8 @@
 | [x] | 584 | Select |
 | [x] | 595 | Select |
 | [x] | 1148 | Select |
-| … | | |
+| [x] | 1683 | Select |
+| … | | Basic Joins next |
 
 ## After each Accepted solution
 
