@@ -10,11 +10,11 @@
 | [ ] | 1148 | Select |
 | … | | |
 
-## После каждой задачи (Accepted)
+## After each Accepted solution
 
 ```powershell
 cd C:\leetcode-sql50
-# новый файл: NNNN-slug.sql (скопируй _template.sql)
+# new file: NNNN-slug.sql (copy from _template.sql)
 git add .
 git status
 git commit -m "leetcode: SQL50 — 1148 Article Views I"
