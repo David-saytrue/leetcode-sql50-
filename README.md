@@ -9,7 +9,8 @@
 | [x] | 595 | Select |
 | [x] | 1148 | Select |
 | [x] | 1683 | Select |
-| … | | Basic Joins next |
+| [x] | 1378 | Basic Joins |
+| … | | |
 
 ## After each Accepted solution
 
