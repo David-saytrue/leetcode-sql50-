@@ -21,4 +21,6 @@ git commit -m "leetcode: SQL50 — 1148 Article Views I"
 git push
 ```
 
+Repo: https://github.com/David-saytrue/leetcode-sql50-
+
 Portfolio / ETL: [data-engineer-prep](https://github.com/David-saytrue/data-engineer-prep)
