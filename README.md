@@ -7,7 +7,7 @@
 | [x] | 1757 | Select |
 | [x] | 584 | Select |
 | [x] | 595 | Select |
-| [ ] | 1148 | Select |
+| [x] | 1148 | Select |
 | … | | |
 
 ## After each Accepted solution
