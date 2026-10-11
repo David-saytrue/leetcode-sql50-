@@ -18,6 +18,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 | [x] | 1661 | Basic Joins |
 | [x] | 577 | Basic Joins |
 | [x] | 1280 | Basic Joins |
+| [x] | 570 | Aggregation |
 | … | | |
 
 ## After each Accepted solution
