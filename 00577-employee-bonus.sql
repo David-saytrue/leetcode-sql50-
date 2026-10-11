@@ -4,7 +4,8 @@
 -- Study plan: SQL 50
 -- Completed: 2026-10-11
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT e.name,
        b.bonus
@@ -13,3 +14,4 @@ LEFT JOIN Bonus AS b
   ON e.empId = b.empId
 WHERE b.bonus < 1000
    OR b.bonus IS NULL;
+

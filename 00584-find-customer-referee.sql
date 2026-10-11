@@ -3,9 +3,11 @@
 -- Difficulty: Easy
 -- Study plan: SQL 50
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT name
 FROM Customer
 WHERE referee_id != 2
    OR referee_id IS NULL;
+

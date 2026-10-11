@@ -4,9 +4,11 @@
 -- Study plan: SQL 50
 -- Completed: 2026-10-09
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT empu.unique_id, emp.name
 FROM Employees AS emp
 LEFT JOIN EmployeeUNI AS empu
   ON emp.id = empu.id;
+

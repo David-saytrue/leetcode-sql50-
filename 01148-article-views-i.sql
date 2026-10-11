@@ -4,9 +4,11 @@
 -- Study plan: SQL 50
 -- Completed: 2026-10-09
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT DISTINCT
     author_id AS id
 FROM Views
 WHERE author_id = viewer_id;
+

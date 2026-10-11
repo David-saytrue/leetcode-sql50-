@@ -3,9 +3,11 @@
 -- Difficulty: Easy
 -- Study plan: SQL 50
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y'
   AND recyclable = 'Y';
+

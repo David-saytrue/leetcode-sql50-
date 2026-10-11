@@ -1,5 +1,7 @@
 # LeetCode — SQL 50
 
+Solutions written and tested in **PostgreSQL** (LeetCode code editor → PostgreSQL). Local practice uses PostgreSQL 17 as well ([data-engineer-prep](https://github.com/David-saytrue/data-engineer-prep)).
+
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
 | Done | # | Topic |

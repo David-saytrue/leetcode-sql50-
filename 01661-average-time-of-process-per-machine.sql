@@ -3,9 +3,10 @@
 -- Difficulty: Easy
 -- Study plan: SQL 50
 -- Completed: 2026-10-11
--- Note: ::numeric for PostgreSQL; on LeetCode MySQL use ROUND(AVG(...), 3) without cast.
+-- Note: ROUND(AVG(...)::numeric, 3) for PostgreSQL.
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT s.machine_id,
        ROUND(AVG(e.timestamp - s.timestamp)::numeric, 3) AS processing_time
@@ -16,3 +17,4 @@ INNER JOIN Activity AS e
  AND s.activity_type = 'start'
  AND e.activity_type = 'end'
 GROUP BY s.machine_id;
+

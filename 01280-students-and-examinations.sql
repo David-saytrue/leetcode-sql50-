@@ -4,7 +4,8 @@
 -- Study plan: SQL 50
 -- Completed: 2026-10-11
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT s.student_id,
        s.student_name,
@@ -18,3 +19,4 @@ LEFT JOIN Examinations AS ex
 GROUP BY s.student_id,
          s.student_name,
          sub.subject_name;
+

@@ -4,7 +4,8 @@
 -- Study plan: SQL 50
 -- Completed: 2026-10-10
 
--- # Write your MySQL query statement below
+-- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
+
 
 SELECT pr.product_name,
        sa.year,
@@ -12,3 +13,4 @@ SELECT pr.product_name,
 FROM Product AS pr
 JOIN Sales AS sa
   ON pr.product_id = sa.product_id;
+
