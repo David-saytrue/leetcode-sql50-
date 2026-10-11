@@ -15,6 +15,7 @@
 | [x] | 197 | Basic Joins |
 | [x] | 1661 | Basic Joins |
 | [x] | 577 | Basic Joins |
+| [x] | 1280 | Basic Joins |
 | … | | |
 
 ## After each Accepted solution
