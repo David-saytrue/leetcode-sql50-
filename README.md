@@ -4,28 +4,32 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-| Done | # | Topic |
-|------|---|--------|
-| [x] | 1757 | Select |
-| [x] | 584 | Select |
-| [x] | 595 | Select |
-| [x] | 1148 | Select |
-| [x] | 1683 | Select |
-| [x] | 1378 | Basic Joins |
-| [x] | 1068 | Basic Joins |
-| [x] | 1581 | Basic Joins |
-| [x] | 197 | Basic Joins |
-| [x] | 1661 | Basic Joins |
-| [x] | 577 | Basic Joins |
-| [x] | 1280 | Basic Joins |
-| [x] | 570 | Aggregation |
-| … | | |
+**Progress:** 14 / 50 · Easy **13** · Medium **1** · Hard **0**
+
+| Done | # | Diff | Topic |
+|------|---|------|--------|
+| [x] | 1757 | Easy | Select |
+| [x] | 584 | Easy | Select |
+| [x] | 595 | Easy | Select |
+| [x] | 1148 | Easy | Select |
+| [x] | 1683 | Easy | Select |
+| [x] | 1378 | Easy | Basic Joins |
+| [x] | 1068 | Easy | Basic Joins |
+| [x] | 1581 | Easy | Basic Joins |
+| [x] | 197 | Easy | Basic Joins |
+| [x] | 1661 | Easy | Basic Joins |
+| [x] | 577 | Easy | Basic Joins |
+| [x] | 1280 | Easy | Basic Joins |
+| [x] | 570 | Medium | Aggregation |
+| … | | | |
+
+`Diff` matches [LeetCode](https://leetcode.com/) labels (Easy / Medium / Hard). Each `.sql` file has the same in the header.
 
 ## After each Accepted solution
 
 ```powershell
 cd C:\leetcode-sql50
-# new file: NNNN-slug.sql (copy from _template.sql)
+# new file: NNNN-slug.sql (copy from _template.sql — set Difficulty in header)
 git add .
 git status
 git commit -m "leetcode: SQL50 — 1148 Article Views I"
