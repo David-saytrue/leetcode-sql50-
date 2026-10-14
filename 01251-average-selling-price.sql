@@ -6,9 +6,12 @@
 -- Dialect: PostgreSQL (LeetCode PostgreSQL editor)
 
 SELECT p.product_id,
-       ROUND(
-           SUM(u.units * p.price)::numeric / NULLIF(SUM(u.units), 0),
-           2
+       COALESCE(
+           ROUND(
+               SUM(u.units * p.price)::numeric / NULLIF(SUM(u.units), 0),
+               2
+           ),
+           0
        ) AS average_price
 FROM Prices AS p
 LEFT JOIN UnitsSold AS u
