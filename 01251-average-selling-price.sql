@@ -7,7 +7,7 @@
 
 SELECT p.product_id,
        ROUND(
-           SUM(u.units * p.price)::numeric / SUM(u.units),
+           SUM(u.units * p.price)::numeric / NULLIF(SUM(u.units), 0),
            2
        ) AS average_price
 FROM Prices AS p
