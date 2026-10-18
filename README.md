@@ -4,7 +4,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-**Progress:** 18 / 50 · Easy **16** · Medium **2** · Hard **0**
+**Progress:** 19 / 50 · Easy **17** · Medium **2** · Hard **0**
 
 | Done | # | Diff | Topic |
 |------|---|------|--------|
