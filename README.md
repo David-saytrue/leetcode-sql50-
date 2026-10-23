@@ -4,7 +4,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-**Progress:** 22 / 50 · Easy **17** · Medium **5** · Hard **0**
+**Progress:** 23 / 50 · Easy **17** · Medium **6** · Hard **0**
 
 | Done | # | Diff | Topic |
 |------|---|------|--------|
@@ -29,6 +29,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 | [x] | 1211 | Medium | Aggregation |
 | [x] | 1193 | Medium | Aggregation |
 | [x] | 1174 | Medium | Aggregation |
+| [x] | 550 | Medium | Aggregation |
 | … | | | |
 
 `Diff` matches [LeetCode](https://leetcode.com/) labels (Easy / Medium / Hard). Each `.sql` file has the same in the header.
