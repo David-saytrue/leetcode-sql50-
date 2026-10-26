@@ -1,6 +1,6 @@
 -- LeetCode 1070. Product Sales Analysis III
 -- https://leetcode.com/problems/product-sales-analysis-iii/
--- Difficulty: Easy
+-- Difficulty: Medium
 -- Study plan: SQL 50
 -- Completed: 2026-10-26
 -- Dialect: PostgreSQL (LeetCode PostgreSQL editor)

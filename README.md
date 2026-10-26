@@ -4,7 +4,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-**Progress:** 26 / 50 · Easy **20** · Medium **6** · Hard **0**
+**Progress:** 26 / 50 · Easy **19** · Medium **7** · Hard **0**
 
 | Done | # | Diff | Topic |
 |------|---|------|--------|
@@ -15,7 +15,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 | [x] | 1683 | Easy | Select |
 | [x] | 1378 | Easy | Basic Joins |
 | [x] | 1068 | Easy | Basic Joins |
-| [x] | 1070 | Easy | Basic Joins |
+| [x] | 1070 | Medium | Basic Joins |
 | [x] | 1581 | Easy | Basic Joins |
 | [x] | 197 | Easy | Basic Joins |
 | [x] | 1661 | Easy | Basic Joins |
