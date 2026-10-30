@@ -4,7 +4,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-**Progress:** 30 / 50 · Easy **22** · Medium **8** · Hard **0**
+**Progress:** 31 / 50 · Easy **23** · Medium **8** · Hard **0**
 
 | Done | # | Diff | Topic |
 |------|---|------|--------|
@@ -31,6 +31,7 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 | [x] | 1729 | Easy | Aggregation |
 | [x] | 619 | Easy | Aggregation |
 | [x] | 1045 | Medium | Aggregation |
+| [x] | 1731 | Easy | Aggregation |
 | [x] | 1211 | Medium | Aggregation |
 | [x] | 1193 | Medium | Aggregation |
 | [x] | 1174 | Medium | Aggregation |
