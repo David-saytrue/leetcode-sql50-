@@ -4,13 +4,14 @@ Solutions written and tested in **PostgreSQL** (LeetCode code editor → Postgre
 
 [Study plan on LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
-**Progress:** 26 / 50 · Easy **19** · Medium **7** · Hard **0**
+**Progress:** 27 / 50 · Easy **20** · Medium **7** · Hard **0**
 
 | Done | # | Diff | Topic |
 |------|---|------|--------|
 | [x] | 1757 | Easy | Select |
 | [x] | 584 | Easy | Select |
 | [x] | 595 | Easy | Select |
+| [x] | 596 | Easy | Aggregation |
 | [x] | 1148 | Easy | Select |
 | [x] | 1683 | Easy | Select |
 | [x] | 1378 | Easy | Basic Joins |
